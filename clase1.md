@@ -30,15 +30,17 @@ Al finalizar la actividad, los estudiantes deberán ser capaces de:
 
 ## 1. Nombre del Space
 
-**Nombre:**
+**Nombre:mrfakename/Z-Image-Turbo**
 
-**Enlace:**
+**Enlace: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo**
 
 ------------------------------------------------------------------------
 
 ## 2. ¿Qué hace el agente?
 
 Describa en dos o tres líneas cuál es la función del sistema.
+
+
 
 ------------------------------------------------------------------------
 
